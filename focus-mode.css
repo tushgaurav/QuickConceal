@@ -1,0 +1,4 @@
+body > .scaffold > :is(top-nav, navigation-rail, side-nav, footer),
+body {
+  display: none;
+}
